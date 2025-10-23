@@ -1,7 +1,5 @@
-# Reynolds-Number-Flow-Regime-Analysis
 
-
-# 🔬 Assignment 01: Reynolds Number and Flow Regime Analysis
+## Reynolds Number and Flow Regime Analysis
 
 This project explores the fundamental principles of **fluid kinetics** by analyzing the dimensionless **Reynolds Number (Re)** and its critical role in classifying flow regimes (Laminar, Transitional, and Turbulent). The work was conducted as a group assignment for the **Biotransport (SBEG201)** course.
 
@@ -21,7 +19,7 @@ This project explores the fundamental principles of **fluid kinetics** by analyz
 | :---: | :---: | :---: |
 | **Core Analysis & Visualization** | MATLAB R2025a | Re Calculation, Velocity Profile Plotting, $f$ vs. Re Log-Log Plot, Interactive GUI, Streamline Visualization. |
 | **Advanced Simulation** | OpenFOAM | Computational Fluid Dynamics (CFD) simulation of Lid-Driven Cavity Flow to model high-Re turbulent phenomena. |
-| **Documentation** | LaTeX / PDF | Comprehensive academic report submission. |
+| **Documentation** | PDF | Comprehensive academic report submission. |
 
 ---
 
